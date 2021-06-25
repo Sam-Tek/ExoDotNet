@@ -66,7 +66,7 @@ namespace ConsoleApp1
                     case 46: Exo46(); break;
                     case 47: Exo47(); break;
                     case 48: Exo48(); break;
-                    case 60: Exo60(); break; 
+                    case 60: Exo60(); break;
                     case 61: Exo61(); break;
                     case 62: testeclasse(); break;
                     case 300: Exo300(); break;
